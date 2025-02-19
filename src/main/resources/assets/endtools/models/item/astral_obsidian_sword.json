@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "endtools:item/astral_obsidian_sword"
+  }
+}
